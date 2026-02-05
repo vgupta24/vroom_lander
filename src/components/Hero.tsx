@@ -30,27 +30,10 @@ export default function Hero() {
           your focus on making your event special.
         </p>
 
-        {/* CTA Buttons */}
-        <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
-          <Button
-            href={ROUTES.BOOK}
-            variant="primary"
-            size="lg"
-            fullWidth
-            className="sm:w-auto"
-          >
-            Book a Call
-          </Button>
-          <Button
-            href={ROUTES.PORTFOLIO}
-            variant="outline"
-            size="lg"
-            fullWidth
-            className="sm:w-auto"
-          >
-            View Portfolio
-          </Button>
-        </div>
+        {/* CTA Button */}
+        <Button href={ROUTES.BOOK} variant="primary" size="lg">
+          Book a Call
+        </Button>
       </motion.div>
     </section>
   );
