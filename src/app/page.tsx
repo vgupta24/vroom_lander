@@ -10,8 +10,8 @@ export default function Home() {
             VROOM
           </h1>
           <p className="text-load-in mt-8 max-w-3xl mx-auto text-lg md:text-2xl text-gray-600 leading-relaxed">
-            VROOM is building software that leverages automation tools to take
-            care of event planning busywork. By solving the
+            VROOM is building automation tools to take care of event planning
+            busywork. By solving the
             back-and-forth between vendors, venue sourcing, and event logistics,
             allowing hosts to focus on the guest experience and the creative
             vision.
