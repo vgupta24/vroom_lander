@@ -13,7 +13,7 @@ export default function Home() {
             VROOM is building automation tools to take care of event planning
             busywork. By solving the
             back-and-forth between vendors, venue sourcing, and event logistics,
-            allowing hosts to focus on the guest experience and the creative
+            we allow hosts to focus on the guest experience and their creative
             vision.
           </p>
         </div>
